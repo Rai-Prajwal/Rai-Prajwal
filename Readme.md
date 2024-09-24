@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Rai Prajwal
+# Hi there 👋, I'm Prajwal Rai.
 
 Welcome to my GitHub profile!
 
