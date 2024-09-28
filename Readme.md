@@ -19,5 +19,6 @@ Welcome to my GitHub profile!
   <a href="https://github.com/Rai-Prajwal">
     <img src="https://github-readme-stats.vercel.app/api?username=Rai-Prajwal&show_icons=true&theme=radical" alt="Prajwal Rai's github stats" height="180"/>
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rai-Prajwal&layout=compact&theme=radical" alt="Top Languages used by Prajwal Rai" height="180"/>
 </div>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rai-Prajwal&layout=compact&theme=radical)
