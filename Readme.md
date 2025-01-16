@@ -17,10 +17,10 @@ Welcome to my GitHub profile!
 
 ### 📈 GitHub Stats:
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rai-Prajwal&show_icons=true&theme=radical" alt="Prajwal Rai's github streak stats" height="180"/>
   <a href="https://github.com/Rai-Prajwal">
     <img src="https://github-readme-stats.vercel.app/api?username=Rai-Prajwal&show_icons=true&theme=radical" alt="Prajwal Rai's github stats" height="180"/>
   </a>
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rai-Prajwal&layout=compact&theme=radical)
 </div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rai-Prajwal&layout=compact&theme=radical)
