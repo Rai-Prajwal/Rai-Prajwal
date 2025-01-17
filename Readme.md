@@ -17,7 +17,7 @@ Welcome to my GitHub profile!
 
 ### 📈 GitHub Stats:
 <a href="https://github.com/Rai-Prajwal/github-stats">
-<img src="https://github.com/Rai-Prajwal/GithubStats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/Rai-Prajwal/GithubStats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+<img src="https://github.com/Rai-Prajwal/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/Rai-Prajwal/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 </a>
 
